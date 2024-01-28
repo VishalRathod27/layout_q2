@@ -1,0 +1,204 @@
+body {
+    text-align: center;
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.card-1 {
+    background-color: rgb(255, 0, 0);
+  padding: 20px;
+  width: 230px;
+  height: 40px;
+  margin-top: -10px;
+  color: aliceblue;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.card-title {
+    color: rgb(255, 0, 0);
+    font-weight: bold;
+}
+.card-job {
+    color: rgb(255, 0, 0);
+    margin-top: -15px;
+}
+.card-text {
+    font-size: 17px;
+    color: rgb(255, 0, 0);
+    border: 0px solid rgb(255, 255, 255);
+    border-radius: 8px;
+    background-color: #ffa1a13c;
+}
+.card-2 {
+    border-radius: 25px;
+  padding: 20px;
+  width: 230px;
+  height: 350px;
+  margin-top: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.username-class {
+    border-radius: 5px;
+    border: 1px solid rgba(255, 0, 0, 0.237);
+    font-weight: bold;
+    color:  rgb(255, 0, 0);
+}
+.username {
+    display: flex;
+  justify-content: left; 
+}
+.firstname {
+    display: flex;
+  justify-content: left;
+    font-weight: bold;
+    font-size: 15px;
+    color:  rgb(0, 0, 0);
+}
+.phonework-class {
+    border-radius: 5px;
+    border: 1px solid rgba(255, 0, 0, 0.237);
+    font-weight: bold;
+    color:  rgb(255, 0, 0);
+}
+.phonework {
+    display: flex;
+  justify-content: left; 
+}
+.number {
+    display: flex;
+  justify-content: left;
+    font-weight: bold;
+    font-size: 15px;
+    color:  rgb(0, 0, 0);
+}
+.phonework-private-class {
+    border-radius: 5px;
+    border: 1px solid rgba(255, 0, 0, 0.237);
+    font-weight: bold;
+    color:  rgb(255, 0, 0);
+}
+.phonework-private {
+    display: flex;
+  justify-content: left; 
+}
+.number-1 {
+    display: flex;
+  justify-content: left;
+    font-weight: bold;
+    font-size: 15px;
+    color:  rgb(0, 0, 0);
+}
+.email-class {
+    border-radius: 5px;
+    border: 1px solid rgba(255, 0, 0, 0.237);
+    font-weight: bold;
+    color:  rgb(255, 0, 0);
+}
+.email {
+    display: flex;
+  justify-content: left; 
+}
+.email-id {
+    display: flex;
+  justify-content: left;
+    font-weight: bold;
+    font-size: 15px;
+    color:  rgb(0, 0, 0);
+}
+.company-class {
+    border-radius: 5px;
+    border: 1px solid rgba(255, 0, 0, 0.237);
+    font-weight: bold;
+    color:  rgb(255, 0, 0);
+}
+.company {
+    display: flex;
+  justify-content: left;
+}
+.companyname {
+    display: flex;
+  justify-content: left;
+    font-weight: bold;
+    font-size: 15px;
+    color:  rgb(0, 0, 0);
+}
+.address-class {
+    border-radius: 5px;
+    border: 1px solid rgba(255, 0, 0, 0.237);
+    font-weight: bold;
+    color:  rgb(255, 0, 0);
+}
+.address {
+    display: flex;
+  justify-content: left;
+}
+.youraddress {
+    display: flex;
+  justify-content: left;
+    font-weight: bold;
+    font-size: 15px;
+    color:  rgb(0, 0, 0);
+}
+.website-class {
+    border-radius: 5px;
+    border: 1px solid rgba(255, 0, 0, 0.237);
+    font-weight: bold;
+    color:  rgb(255, 0, 0);
+}
+.website {
+    display: flex;
+  justify-content: left;
+}
+.yourwebsite {
+    display: flex;
+  justify-content: left;
+    font-weight: bold;
+    font-size: 16px;
+    color:  rgb(0, 0, 0);
+}
+.card-3 {
+  padding: 20px;
+  height: 100px;
+  margin-top: 1px;
+}
+.socialprofile {
+    display: flex;
+    justify-content: left;
+    font-weight: bold;
+    font-size: 20px;
+}
+.facebook-icon {
+    border-radius: 3px;
+    border: 1px solid rgba(255, 0, 0, 0.237);
+    font-weight: bold;
+    color:  rgb(255, 0, 0);
+}
+.facebook {
+    font-weight: bold;
+    font-size: 20px;
+    color:  rgb(255, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.twitter-icon {
+    border-radius: 3px;
+    border: 1px solid rgba(255, 0, 0, 0.237);
+    font-weight: bold;
+    color:  rgb(255, 0, 0);
+}
+.twitter {
+    font-weight: bold;
+    font-size: 20px;
+    color:  rgb(255, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.linkedin-icon {
+    border-radius: 3px;
+    border: 1px solid rgba(255, 0, 0, 0.237);
+    font-weight: bold;
+    color:  rgb(255, 0, 0);
+}
+.linkedin {
+    font-weight: bold;
+    font-size: 20px;
+    color:  rgb(255, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+}
